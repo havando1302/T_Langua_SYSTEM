@@ -1,0 +1,9 @@
+{
+  "default": {
+    "xin chào": "Hello",
+    "tạm biệt": "Goodbye",
+    "chào buổi sáng": "Good morning",
+    "chào buổi tối": "Good evening",
+    "chúc ngủ ngon": "Good night"
+  }
+}
